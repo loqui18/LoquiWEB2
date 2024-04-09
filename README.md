@@ -1,1 +1,1 @@
-# LoquiWEB2
+# loquiWEB
